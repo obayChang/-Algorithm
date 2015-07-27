@@ -1,4 +1,6 @@
 247 - Calling Circles -- SCC
 202 - Repeating Decimals -- reminder
 417 - Word Index -- BFS
+534 - Frogger --shortest path
+
 
