@@ -1,6 +1,6 @@
 247 - Calling Circles -- SCC
 202 - Repeating Decimals -- reminder
 417 - Word Index -- BFS
-534 - Frogger --shortest path
+534 - Frogger --Shortest Path
 200 - Rare Ordering -- Topological Sort
 
